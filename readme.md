@@ -8,7 +8,7 @@ This project is divided into two major parts. In the first part, I will conduct 
 In the second part, I will take my main findings from my exploration and convey them to others through an explanatory analysis. To this end, I will create a slide deck that leverages polished, explanatory visualizations to communicate my results. This part of the project should make heavy use of the first part of the project.
 
 
-### Step 1.1: Choose your Dataset
+### Step 1.1: Choose the Dataset
 
 
 I choose Ford GoBike bike ride data from 2018/01 to 2019/02 for my project. The data was downloaded from here https://www.fordgobike.com/system-data. The data is about bike ride date, station information, member type, gender and age.
